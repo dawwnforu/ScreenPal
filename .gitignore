@@ -1,0 +1,6 @@
+config.json
+notes/
+screenshots/
+__pycache__/
+*.pyc
+.env

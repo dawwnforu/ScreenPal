@@ -1,0 +1,5 @@
+mss>=9.0.0
+flask>=3.0.0
+httpx>=0.27.0
+Pillow>=10.0.0
+anthropic>=0.39.0  # optional — only needed for Claude provider
